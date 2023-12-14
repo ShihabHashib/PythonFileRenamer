@@ -2,7 +2,7 @@ This is a file renamer python script that renames files in a specified folder ba
 
 ## Features
 
-- Supports renaming files with date and name information.
+- Supports renaming files with date and name informations.
 - Converts both abbreviated and full month names to the numeric format.
 - Creates a new folder ("Renamed Folder") inside the specified folder and copies the renamed files into it.
 
