@@ -20,7 +20,7 @@ Renamed file name: `21-02-2019-Shihab-Hashib.xlsx`
 
 ## Requirements
 
-- Python 3.x.x
+- Python 3.x
 - `tkinter` library (usually included with Python installations)
 
 ## How to Run
